@@ -1,0 +1,13 @@
+.item-wrapper {
+  display: flex;
+  border: 1px solid #636e72;
+  padding: 3px;
+}
+
+.item-checkbox {
+  margin: 5px;
+}
+
+.item-text {
+  flex: 1;
+}
